@@ -9,7 +9,7 @@
 ## 部署
 
 * 注册 [Glitch](https://glitch.com/)
-* config.json 的 17 行修改 UUID 或 密码
+* config.json 的 17 行 （ShadowSocks 为 18 行） 修改 UUID 或 密码
 * server.js 的 106 行修改自己的 URL， 44 行修改哪吒参数
 * 部署成功后 vmess / vless / trojan / shadowsocks ws 的路径为: `/api`，如要修改，可以寻找并替换 server.js 的 90、96、97 行里的 api
 * 需要应用的 js
