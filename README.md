@@ -8,7 +8,7 @@
 
 ## 部署
 
-> 现项目使用的是多协议，原单协议项目说明已经转移至 Release 页面，请在 Release 页面进行下载
+> 现项目使用的是四合一协议，原单协议项目说明已经转移至 Release 页面，请在 Release 页面进行下载
 
 * 注册 [Glitch](https://glitch.com/)
 * config.json 的 17 行 （ShadowSocks 为 18 行） 修改 UUID 或 密码
