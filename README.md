@@ -20,7 +20,6 @@
   | ------------ | ------ | ------ |
   | <URL>/start | 是 | 运行 xray |
   | <URL>/nezha | 否 | 运行哪吒 | 以 / 开头 |
-  | <URL>/api | 否 | 查看 xray 运行结果 Bad Request 即 OK |
   | <URL>/status | 否 | 查看后台进程  |
 
 ![image](https://user-images.githubusercontent.com/92626977/212469541-9f1ceb5e-d525-4787-8142-0df4dafdbbe8.png)
